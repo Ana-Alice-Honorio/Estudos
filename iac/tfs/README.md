@@ -1,0 +1,9 @@
+- Terraform Init -> Iniciar
+- upgrade -> Atualiza providers, módulos e plugins
+- reconfigure -> Reconfigura o backend
+- migrate-state -> Reconfigura o backend e migra as infos para o state atual
+- terraform validate -> Verifica se o seu código está escrito corretamente
+- terraform fmt -> Corrige o alinhado do seu código
+- terraform plan -> Verifica o planejamento do provisionamento
+- terraform apply -> Verifica se o planejamento de provisionamento está correto. (em seguida digite "yes" caso esteja de acordo com o que será provisionado) e dê enter
+- terraform destroy -> Remove tudo que foi provisionado
