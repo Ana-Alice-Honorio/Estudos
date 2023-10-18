@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clash Royale Tags</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header>
+        <h2>Tags com Clash Royale</h2>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Página inicial</a></li>
+            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#">Galeria</a></li>
+          </ul>
+    </nav>
+
+    <main>
+
+        <section id="sobre">
+           <h3>O que é Clash Royale?</h3>
+           <p>
+            Clash Royale é um jogo de cartas e estratégia grátis disponível para baixar no Android (via Google Play) e iOS (via App Store).
+            Feito pelo estúdio Supercell, mesmo desenvolvedor de Clash of Clans, o game é uma mistura de MOBA,
+            com combate online em tempo real, e cardgame, com personagens em 3D.
+            O título é gratuito, mas você pode comprar a moeda do jogo ou gemas com dinheiro real. 
+           </p>
+           <img src="./images/2016-03-22-clash-royale-versus-match.webp" alt="imagem campo de clash royale">
+        </section>
+
+        <form class="formulario" method="post"> 
+            <p> Envie uma mensagem preenchendo o formulário abaixo</p>
+            
+            <div class="field">
+                <label for="nome">Seu Nome:</label>
+                <input type="text" id="nome" name="nome" placeholder="Digite seu nome*" required>
+            </div>
+            
+            <div class="field">
+                <label for="telefone">Seu Telefone:</label>
+                <input type="text" id="telefone" name="telefone" placeholder="Digite seu Telefone">
+            </div>
+    
+            <div class="field">
+                <label for="email">Seu E-Mail:</label>
+                <input type="email" id="email" name="email" placeholder="Digite seu E-Mail*" required>
+            </div>        
+            <div class="field radiobox">
+                <span>Deseja receber nossas novidades?</span>
+                <input type="radio" name="novidades" id="sim" value="sim" checked><label for="sim">Sim</label>
+                <input type="radio" name="novidades" id="nao" value="nao"><label for="nao">Não</label>
+            </div>
+            <div class="field">
+                <label for="mensagem">Sua mensagem:</label>
+                <textarea name="mensagem" id="mensagem" placeholder="Mensagem*" required></textarea>
+            </div>
+    
+            <input type="submit" name="acao" value="Enviar">
+        </form>
+    </main>
+
+    <footer>
+        Criado por Ana Alice 🌻
+    </footer>
+</body>
+</html>
