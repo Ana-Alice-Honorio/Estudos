@@ -1,0 +1,36 @@
+* {
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    position: absolute;
+    width:100%;
+}
+
+form {
+    display: inline-block;
+    position: relative;
+}
+
+label, input {
+    display:block;
+    font-size: 20px;
+    margin: 20px 0 10px;
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+}
+
+button {
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: aqua;
+    font-size: 20px;
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+}
