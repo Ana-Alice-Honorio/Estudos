@@ -1,3 +1,5 @@
+- O arquiteto
+
 O papel do arquiteto era complementar ao dos stakeholders. Enquanto o pessoal de negócios prioriza a entrega de funcionalidades, arquitetos priorizam os requisitos não funcionais e ajudam a ordenar a entrega de requerimentos funcionais que minimizam e mantêm características não funcionais.
 
 Sem a habilidade de se envolver com o código, arquitetos não têm como determinar como sua arquitetura foi adotada por uma solução, nem como eles têm uma maneira direta de pegar feedback de sua arquitetura para melhorá-la.
