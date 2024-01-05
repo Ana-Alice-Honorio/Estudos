@@ -5,3 +5,5 @@ O papel do arquiteto era complementar ao dos stakeholders. Enquanto o pessoal de
 Sem a habilidade de se envolver com o código, arquitetos não têm como determinar como sua arquitetura foi adotada por uma solução, nem como eles têm uma maneira direta de pegar feedback de sua arquitetura para melhorá-la.
 Sem habilidades de sof t ware, um arquiteto fica refém dos times de desenvolvimento, o que é um overhead, não um benefício.
 
+- Design é uma forma de interpretar a implementação, analisando e compreendendo as interações entre determinadas partes do sistema, como possíveis impactos que uma mudança em um ponto causa em outro componente que o acessa direta ou indiretamente.
+
