@@ -9,3 +9,5 @@ Sem habilidades de software, um arquiteto fica refém dos times de desenvolvimen
 
 - Implementação não significa somente o código escrito pelos desenvolvedores da equipe atual, mas também o conjunto de escolhas de ferramentas, versões que fazem parte dos ambientes de desenvolvimento, homologação e produção, linguagem utilizada, legibilidade do código, entre outras. Todas essas escolhas modelam a implementação de um sistema, assim como sua qualidade.
 
+Arquitetura é ainda uma outra maneira de ver a implementação, analisando e compreendendo como uma mudança em determinado ponto do sistema afeta o sistema inteiro, e de todas as maneiras possíveis.
+
